@@ -2,5 +2,5 @@
 
 int main()
 {
-	int hp = 100;
+	int hp = 50;
 }
